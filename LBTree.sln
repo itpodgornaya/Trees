@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBTree", "LBTree\LBTree.csproj", "{000D885F-787A-4FC3-9CC7-15DCFF41DD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000D885F-787A-4FC3-9CC7-15DCFF41DD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000D885F-787A-4FC3-9CC7-15DCFF41DD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000D885F-787A-4FC3-9CC7-15DCFF41DD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000D885F-787A-4FC3-9CC7-15DCFF41DD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C6D00B-0C0D-4D8F-BACB-39F7F7BF112D}
+	EndGlobalSection
+EndGlobal

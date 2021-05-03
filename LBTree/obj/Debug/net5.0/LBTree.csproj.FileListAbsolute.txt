@@ -1,0 +1,16 @@
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.exe
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.deps.json
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.runtimeconfig.json
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.runtimeconfig.dev.json
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.dll
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\ref\LBTree.dll
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\bin\Debug\net5.0\LBTree.pdb
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.csprojAssemblyReference.cache
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.AssemblyInfoInputs.cache
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.AssemblyInfo.cs
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.csproj.CoreCompileInputs.cache
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.dll
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\ref\LBTree.dll
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.pdb
+C:\Users\Kelerus Work\source\repos\LBTree\LBTree\obj\Debug\net5.0\LBTree.genruntimeconfig.cache
